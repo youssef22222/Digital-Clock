@@ -1,0 +1,28 @@
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Debug\Digital clock.exe.config
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Debug\Digital clock.exe
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Debug\Digital clock.pdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital clock.csproj.AssemblyReference.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital_clock.Form1.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital_clock.Properties.Resources.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital clock.csproj.GenerateResource.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital clock.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital clock.exe
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital clock.pdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital_clock.Form2.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital_clock.Form3.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Debug\Digital_clock.Form4.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Debug\DigitalClockDB.accdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\bin\Debug\Digital clock.exe.config
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\bin\Debug\Digital clock.exe
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\bin\Debug\Digital clock.pdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital clock.csproj.AssemblyReference.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital_clock.Form2.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital_clock.Form3.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital_clock.Form4.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital_clock.Properties.Resources.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital clock.csproj.GenerateResource.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital clock.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital clock.exe
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital clock.pdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\bin\Debug\DigitalClockDB.accdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock2\Digital clock\obj\Debug\Digital_clock.Form1.resources

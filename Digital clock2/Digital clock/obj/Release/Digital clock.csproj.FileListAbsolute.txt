@@ -1,0 +1,12 @@
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital_clock.Form1.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital_clock.Form2.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital_clock.Form3.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital_clock.Form4.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital_clock.Properties.Resources.resources
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital clock.csproj.GenerateResource.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital clock.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Release\Digital clock.exe.config
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Release\Digital clock.exe
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\bin\Release\Digital clock.pdb
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital clock.exe
+C:\Users\Youssef El-sayed\Desktop\Digital clock\Digital clock\obj\Release\Digital clock.pdb
